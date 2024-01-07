@@ -1,0 +1,17 @@
+{
+    "name": "mrkaa/phpoffice",
+    "autoload": {
+        "psr-4": {
+            "Mrkaa\\Phpoffice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kamil",
+            "email": "mr.kaam@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
